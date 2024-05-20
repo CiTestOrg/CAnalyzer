@@ -6,16 +6,16 @@ This repo contains the code for our IEEE S&P'24 paper "More Haste, Less Speed: C
 
 - Step 1: CI Secret Variable Identification
 
-Following this [guide]().
+    Following this [guide](https://github.com/CiTestOrg/CAnalyzer/blob/master/step1-cache_secrets_vars/README.md).
 
 
 - Step 2: Secrets Sink File Tracing
 
-Following this [guide]().
+    Following this [guide](https://github.com/CiTestOrg/CAnalyzer/blob/master/step2-cache_sink_file_detector/ReadME.md).
 
 - Step 3: Data Leakage Detection
 
-Coming soon.
+    Coming soon.
 
 ## Cite 
 

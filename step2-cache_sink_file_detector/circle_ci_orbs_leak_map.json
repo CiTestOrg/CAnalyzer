@@ -1,0 +1,58 @@
+{
+    "circleci/aws-cli": {
+        "file_list": ["$HOME/.aws/credentials"],
+        "input": ["aws-secret-access-key"]
+    },
+    "circleci/aws-ecr": {
+        "file_list": ["$HOME/.aws/credentials", "$HOME/.docker/config.json"],
+        "input": ["aws-secret-access-key", "dockerhub-password"]
+    },
+    "circleci/aws-s3": {
+        "file_list": ["$HOME/.aws/credentials", "$HOME/.aws/config"],
+        "input": ["aws-secret-access-key"]
+    },
+    "circleci/aws-ecs": {
+        "file_list": ["$HOME/.aws/credentials", "$HOME/.aws/config"],
+        "input": ["aws-secret-access-key"]
+    },
+    "circleci/docker": {
+        "file_list": ["$HOME/.docker/config.json"],
+        "input": ["docker-password"]
+    },
+    "circleci/android": {
+        "file_list": ["./keystore", "./google-play-key.json", "./keystore.properties"],
+        "input": ["base64-keystore", "google-play-key"]
+    },
+    "circleci/kubernetes": {
+        "file_list": ["$HOME/.kube/config"],
+        "input": ["kubeconfig"]
+    },
+    "circleci/gcp-cli": {
+        "file_list": ["$HOME/gcloud-service-key.json", "$HOME/.config/gcloud/legacy_credentials/*/adc.json"],
+        "input": ["gcloud_service_key"]
+    },
+    "circleci/heroku": {
+        "file_list": ["/tmp/orblog.txt"],
+        "input": ["api-key"]
+    },
+    "circleci/gcp-gcr": {
+        "file_list": ["$HOME/gcloud-service-key.json", "$HOME/.config/gcloud/legacy_credentials/*/adc.json"],
+        "input": ["gcloud_service_key"]
+    },
+    "circleci/gcp-gke": {
+        "file_list": ["$HOME/gcloud-service-key.json", "$HOME/.config/gcloud/legacy_credentials/*/adc.json"],
+        "input": ["gcloud_service_key"]
+    },
+    "circleci/azure-cli": {
+        "file_list": ["$HOME/.azure/accessTokens", "$HOME/.azure/msal_token_cache.json"],
+        "input": ["azure-sp-password", "azure-password"]
+    },
+    "circleci/gcp-cloud-run": {
+        "file_list": ["$HOME/gcloud-service-key.json", "$HOME/.config/gcloud/legacy_credentials/*/adc.json"],
+        "input": ["gcloud-service-key"]
+    },
+    "circleci/aws-code-deploy": {
+        "file_list": ["$HOME/.aws/credentials", "$HOME/.aws/config"],
+        "input": ["aws-secret-access-key"]
+    }
+}

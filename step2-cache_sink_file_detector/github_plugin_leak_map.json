@@ -1,0 +1,38 @@
+{
+    "docker/login-action": {
+        "input_keys": ["password"],
+        "leak_files": ["$HOME/.docker/config.json"]
+    },
+    "FirebaseExtended/action-hosting-deploy": {
+        "input_keys": ["firebaseServiceAccount"],
+        "leak_files": ["/tmp/tmp-1693-dBAZSXHJ7hlW-.json"]
+    },
+    "crazy-max/ghaction-import-gpg": {
+        "input_keys": ["gpg_private_key"],
+        "leak_files": ["$HOME/.gnupg/private-keys-v1.d/D8440EF9ED6BC675490A30F11E7C43BB7436B4EA.key"]
+    },
+    "akhileshns/heroku-deploy": {
+        "input_keys": ["heroku_api_key"],
+        "leak_files": ["$HOME/.netrc"]
+    },
+    "hashicorp/setup-terraform": {
+        "input_keys": ["cli_config_credentials_token"],
+        "leak_files": ["$HOME/.terraformrc"]
+    },
+    "azure/docker-login": {
+        "input_keys": ["password"],
+        "leak_files": ["/home/runner/work/_temp/docker_login_1681367960990/config.json"]
+    },
+    "r0adkll/sign-android-release": {
+        "input_keys": ["releaseDirectory", "signingKeyBase64"],
+        "leak_files": ["./release/signingKey.jks"]
+    },
+    "shimataro/ssh-key-action": {
+        "input_keys": ["key"],
+        "leak_files": ["$HOME/.ssh/id_rsa"]
+    },
+    "whelk-io/maven-settings-xml-action": {
+        "input_keys": ["servers"],
+        "leak_files": ["$Home/.m2/settings.xml"]
+    }
+}

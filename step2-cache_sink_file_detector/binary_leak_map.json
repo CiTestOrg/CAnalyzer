@@ -1,0 +1,168 @@
+{
+    "docker": [
+        {
+            "command": "docker login",
+            "leak_files": ["~/.docker/config.json"]
+        },
+        {
+            "command": "docker trust key load",
+            "leak_files": ["~/.docker/trust/private/a.key"]
+        }
+    ],
+    "npm": [
+        {
+            "command": "npm login",
+            "leak_files": ["~/.npmrc"]
+        }
+    ],
+    "aws": [
+        {
+            "command": "aws configure set aws_secret_access_key",
+            "leak_files": ["~/.aws/credentials"]
+        },
+        {
+            "command": "aws configure set aws_access_key_id",
+            "leak_files": ["~/.aws/credentials"]
+        }
+    ],
+    "npx": [
+        {
+            "command": "npx vercel --token",
+            "leak_files": ["~/.npm/_logs/a.log"]
+        }
+    ],
+    "poetry": [
+        {
+            "command": "poetry config http-basic.pypi __token__",
+            "leak_files": ["~/.config/pypoetry/auth.toml"]
+        }
+    ],
+    "cargo": [
+        {
+            "command": "cargo login",
+            "leak_files": ["~/.cargo/credentials"]
+        }
+    ],
+    "yarn": [
+        {
+            "command": "yarn config set npmAuthToken",
+            "leak_files": ["/usr/local/share/.yarnrc"]
+        }
+    ],
+    "az": [
+        {
+            "command": "az login",
+            "leak_files": ["~/.azure/msal_token_cache.json"]
+        }
+    ],
+    "b2": [
+        {
+            "command": "b2 authorize-account",
+            "leak_files": ["~/.b2_account_info"]
+        }
+    ],
+    "gcloud": [
+        {
+            "command": "gcloud auth login",
+            "leak_files": ["~/.config/gcloud/logs/a.log", "~/.config/gcloud/legacy_credentials/account/.boto",
+                           "~/.config/gcloud/configurations/config_default",
+                           "~/.config/gcloud/legacy_credentials/account/adc.json"]
+        }
+    ],
+    "nuget": [
+        {
+            "command": "nuget setapikey",
+            "leak_files": ["~/.config/NuGet/NuGet.Config"]
+        }
+    ],
+    "oc": [
+        {
+            "command": "oc login",
+            "leak_files": ["~/.kube/config"]
+        }
+    ],
+    "helm": [
+        {
+            "command": "helm registry login",
+            "leak_files": ["~/.config/helm/registry/config.json"]
+        }
+    ],
+    "composer": [
+        {
+            "command": "composer config --global --auth",
+            "leak_files": ["~/.config/composer/auth.json"]
+        }
+    ],
+    "vercel": [
+        {
+            "command": "vercel build --token",
+            "leak_files": [".vercel/output/builds.json"]
+        }
+    ],
+    "heroku": [
+        {
+            "command": "heroku login",
+            "leak_files": ["~/.netrc"]
+        }
+    ],
+    "anaconda": [
+        {
+            "command": "anaconda login",
+            "leak_files": ["~/.config/binstar/host.token"]
+        }
+    ],
+    "sfdx": [
+        {
+            "command": "sfdx force:auth:device:login",
+            "leak_files": ["~/.sfdx/account.json"]
+        }
+    ],
+    "vagrant": [
+        {
+            "command": "vagrant cloud auth login",
+            "leak_files": ["~/.vagrant.d/data/vagrant_login_token"]
+        }
+    ],
+    "ibmcloud": [
+        {
+            "command": "ibmcloud login",
+            "leak_files": ["~/.bluemix/config.json"]
+        }
+    ],
+    "cosign": [
+        {
+            "command": "cosign login",
+            "leak_files": ["~/.docker/config.json"]
+        }
+    ],
+    "skopeo": [
+        {
+            "command": "skopeo login",
+            "leak_files": ["/run/user/0/containers/auth.json"]
+        }
+    ],
+    "snyk": [
+        {
+            "command": "snyk auth",
+            "leak_files": ["~/.config/configstore/snyk.json"]
+        }
+    ],
+    "doctl": [
+        {
+            "command": "doctl registry login",
+            "leak_files": ["~/.docker/config.json"]
+        }
+    ],
+    "podman": [
+        {
+            "command": "podman login",
+            "leak_files": ["/run/user/0/containers/auth.json"]
+        }
+    ],
+    "cf": [
+        {
+            "command": "cf login",
+            "leak_files": ["~/.cf/config.json"]
+        }
+    ]
+}

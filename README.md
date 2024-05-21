@@ -15,7 +15,8 @@ This repo contains the code for our IEEE S&P'24 paper "More Haste, Less Speed: C
 
 - Step 3: Data Leakage Detection
 
-    Coming soon.
+    Following this [guide](https://github.com/CiTestOrg/CAnalyzer/blob/master/step3-data-leakage-detection/README.md).
+
 
 ## Cite 
 

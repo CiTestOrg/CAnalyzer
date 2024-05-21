@@ -1,0 +1,144 @@
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11251657", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8501200", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14964101", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11251657", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8501200", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14964101", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "18327821", "path": ".circleci/config.yml", "cacheRule": ["target/debug/deps", "/usr/local/cargo/registry", "target/debug/build", "target/debug/.fingerprint"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "29632681", "path": ".circleci/config.yml", "cacheRule": ["example/node_modules", "node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "18327826", "path": ".circleci/config.yml", "cacheRule": ["~/.cargo", "./env", "lollygag_ext/lollygag/target", "lollygag_ext/py_interface/target"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "20156552", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14959071", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8236056", "path": ".circleci/config.yml", "cacheRule": ["./node_modules", "~/.yarn"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "32433478", "path": ".circleci/config.yml", "cacheRule": [".venv", "/usr/local/lib/python3.9/site-packages", "/usr/local/bin"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "10575997", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14161559", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "37317920", "path": ".circleci/config.yml", "cacheRule": [".pio"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "24281189", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "15936759", "path": ".circleci/config.yml", "cacheRule": ["./vendor"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "26133262", "path": ".circleci/config.yml", "cacheRule": ["/opt/circleci/.pyenv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "7321225", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11055141", "path": ".circleci/config.yml", "cacheRule": ["/go/pkg"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "18032329", "path": ".circleci/config.yml", "cacheRule": ["./node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "31251105", "path": ".circleci/config.yml", "cacheRule": ["~/.ivy2/local", "~/.ivy2/cache", "~/.sbt", "~/.cache/scalablytyped"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "15253679", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "39508104", "path": ".circleci/config.yml", "cacheRule": ["~/.m2"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11738741", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14441179", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13265241", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "10296616", "path": ".circleci/config.yml", "cacheRule": ["./node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "33877728", "path": ".circleci/config.yml", "cacheRule": ["node_modules/"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "9849288", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11738825", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13424337", "path": ".circleci/config.yml", "cacheRule": ["packages/event-bus/node_modules", "packages/config/node_modules", "node_modules", "packages/container/node_modules", "packages/service-discovery/node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "7969775", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "10996254", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "23758206", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14121965", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "38095201", "path": ".circleci/config.yml", "cacheRule": ["example/node_modules", "node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "12530029", "path": ".circleci/config.yml", "cacheRule": ["./node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11974901", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14064586", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "18948851", "path": ".circleci/config.yml", "cacheRule": ["~/.cache/yarn"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "16177656", "path": ".circleci/config.yml", "cacheRule": ["/home/circle/2600hz/monster-ui/node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "23549124", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "20548322", "path": ".circleci/config.yml", "cacheRule": ["./node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "19633775", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "12982471", "path": ".circleci/config.yml", "cacheRule": ["node_modules/"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "9849246", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "18329192", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13111969", "path": ".circleci/config.yml", "cacheRule": ["~/.npm"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "37254476", "path": ".circleci/config.yml", "cacheRule": ["~/.emacs.d/elpa"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "23526320", "path": ".circleci/config.yml", "cacheRule": ["~/.m2"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8494830", "path": ".circleci/config.yml", "cacheRule": ["~/.gradle"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "30598966", "path": ".circleci/config.yml", "cacheRule": ["node_modules/"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8074869", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "22944294", "path": ".circleci/config.yml", "cacheRule": ["~/.cache/yarn"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "15732552", "path": ".circleci/config.yml", "cacheRule": ["dist"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "7782599", "path": ".circleci/config.yml", "cacheRule": ["~/.gradle"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "16293791", "path": ".circleci/config.yml", "cacheRule": ["dist"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "19934197", "path": ".circleci/config.yml", "cacheRule": ["~/.cache/xml2rfc", "~/draft/.git"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "30179033", "path": ".circleci/config.yml", "cacheRule": ["./node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "32336553", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "19113368", "path": ".circleci/config.yml", "cacheRule": ["/go/pkg/mod"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8255067", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "17646845", "path": ".circleci/config.yml", "cacheRule": ["vendor"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13055633", "path": ".circleci/config.yml", "cacheRule": [".git", "~/local_python"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "9878208", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "32336759", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13398779", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11639668", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8615666", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "19746033", "path": ".circleci/config.yml", "cacheRule": ["/usr/local/lib/python3.7/site-packages", ".venv", "/usr/local/bin"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "39618856", "path": ".circleci/config.yml", "cacheRule": ["~/.npm"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "10687842", "path": ".circleci/config.yml", "cacheRule": ["vendor"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "7755889", "path": ".circleci/config.yml", "cacheRule": ["~/Library/Caches/Homebrew", "~/Library/Caches/pip"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "40447058", "path": ".circleci/config.yml", "cacheRule": ["~/.local"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "39257479", "path": ".circleci/config.yml", "cacheRule": ["vendor/bundle"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "12201178", "path": ".circleci/config.yml", "cacheRule": [".stack-work", "/root/.stack"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "20061344", "path": ".circleci/config.yml", "cacheRule": ["./node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11971043", "path": ".circleci/config.yml", "cacheRule": ["/tmp/cache/layers.tar"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14503307", "path": ".circleci/config.yml", "cacheRule": ["/home/circleci/.local/share/virtualenvs/project-zxI9dQ-Q"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11738712", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8308959", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "18529633", "path": ".circleci/config.yml", "cacheRule": ["node_modules", "~/.yarn-cache", "lib"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "17757699", "path": ".circleci/config.yml", "cacheRule": ["~/.m2"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8615734", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "7213819", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11142159", "path": ".circleci/config.yml", "cacheRule": ["vendor/apt", "/root/project/make-3.82/", "/root/project/graal", "/root/project/mx", "/root/project/graal-jvmci-8", "/root/project/jdk8-with-graal"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "10780645", "path": ".circleci/config.yml", "cacheRule": ["~/.m2"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "22489053", "path": ".circleci/config.yml", "cacheRule": ["target/debug/deps", "/usr/local/cargo/registry", "target/debug/build", "target/debug/.fingerprint"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "7217645", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "10759228", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "34574460", "path": ".circleci/config.yml", "cacheRule": ["./vendor", "/home/circleci/repo/htdocs/wp-content/themes/wordpress-theme-base/node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "15965203", "path": ".circleci/config.yml", "cacheRule": ["~/.npm", "~/.cache"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11528229", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11738752", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13855115", "path": ".circleci/config.yml", "cacheRule": ["/tmp/cache/layers.tar"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13208170", "path": ".circleci/config.yml", "cacheRule": ["./node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "9849236", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13221756", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "7094539", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "23946378", "path": ".circleci/config.yml", "cacheRule": [".venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13401484", "path": ".circleci/config.yml", "cacheRule": ["~/.m2", "~/.ivy2/cache", "~/.sbt"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "12826533", "path": ".circleci/config.yml", "cacheRule": ["./vendor"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "35574758", "path": ".circleci/config.yml", "cacheRule": ["/go/pkg/mod"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "32982422", "path": ".circleci/config.yml", "cacheRule": ["~/AriaNg"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "12279697", "path": ".circleci/config.yml", "cacheRule": ["~/.m2"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "38792670", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "22636919", "path": ".circleci/config.yml", "cacheRule": ["~/project/node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "12611902", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "7316343", "path": ".circleci/config.yml", "cacheRule": ["~/.m2"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "12507373", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14048099", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11738764", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "30334791", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "12889767", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "23910832", "path": ".circleci/config.yml", "cacheRule": ["~/.cache/yarn", "node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "38420333", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "29503028", "path": ".circleci/config.yml", "cacheRule": [".meteor/local", "~/.npm/", "./node_modules/", "~/build-temp", "~/.meteor"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "32336685", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8013486", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "40544860", "path": ".circleci/config.yml", "cacheRule": ["./node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "26511836", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "12246787", "path": ".circleci/config.yml", "cacheRule": ["$HOME/.composer/cache/files"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "19633766", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13531910", "path": ".circleci/config.yml", "cacheRule": ["./vendor/bundle"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "39257478", "path": ".circleci/config.yml", "cacheRule": ["./vendor"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "32336869", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "37728046", "path": ".circleci/config.yml", "cacheRule": ["/usr/local/cargo/registry/index", "/usr/local/cargo/registry/cache", "target"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "18170732", "path": ".circleci/config.yml", "cacheRule": ["/root/.cargo", "~/filecoin-proof-parameters/", "/root/.rustup"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "11467653", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "19994012", "path": ".circleci/config.yml", "cacheRule": ["/go/pkg/mod"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "30483988", "path": ".circleci/config.yml", "cacheRule": [".git"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "20343220", "path": ".circleci/config.yml", "cacheRule": ["./venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "8652903", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "7569153", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "40140215", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "10473228", "path": ".circleci/config.yml", "cacheRule": ["/home/circleci/.cache"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13758858", "path": ".circleci/config.yml", "cacheRule": ["vendor"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "19633773", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "36771861", "path": ".circleci/config.yml", "cacheRule": ["venv"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "13687033", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "14048103", "path": ".circleci/config.yml", "cacheRule": ["/root/.cargo/registry", "target"]}
+{"chp": "gitlab", "cp": "CircleCI", "repoName": "18271051", "path": ".circleci/config.yml", "cacheRule": ["node_modules"]}
